@@ -1,21 +1,24 @@
 {
-  "name": "Lista de Tareas Offline",
+  "name": "Mi To-Do List Offline",
   "short_name": "ToDo",
-  "description": "Aplicación de tareas que funciona sin conexión",
+  "description": "Lista de tareas que funciona sin conexión",
   "start_url": "/",
   "display": "standalone",
   "background_color": "#ffffff",
   "theme_color": "#4CAF50",
+  "orientation": "portrait",
   "icons": [
     {
-      "src": "/icon-192.png",
+      "src": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 192 192'><rect width='192' height='192' fill='%234CAF50'/><text x='96' y='120' font-size='100' text-anchor='middle' fill='white'>✓</text></svg>",
       "sizes": "192x192",
-      "type": "image/png"
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
     },
     {
-      "src": "/icon-512.png",
+      "src": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 512 512'><rect width='512' height='512' fill='%234CAF50'/><text x='256' y='320' font-size='280' text-anchor='middle' fill='white'>✓</text></svg>",
       "sizes": "512x512",
-      "type": "image/png"
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
     }
   ]
 }
