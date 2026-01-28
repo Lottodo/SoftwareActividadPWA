@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Lista de Tareas Offline</title>
+  <link rel="manifest" href="/manifest.json">
+  <link rel="stylesheet" href="styles.css">
+  <meta name="theme-color" content="#4CAF50">
+</head>
+<body>
+  <div class="container">
+    <h1>📝 Mis Tareas</h1>
+    
+    <div class="input-group">
+      <input type="text" id="taskInput" placeholder="Nueva tarea...">
+      <button id="addBtn">Agregar</button>
+    </div>
+
+    <ul id="taskList"></ul>
+    
+    <div id="status" class="status"></div>
+  </div>
+
+  <script src="app.js"></script>
+</body>
+</html>
