@@ -1,4 +1,6 @@
-# Bitácora de Prompts – Ingeniería de Software – Meta 1.1: Crear una PWA con asistencia de la IA
+# Bitácora de Prompts
+# Ingeniería de Software
+# Meta 1.1: Crear una PWA con asistencia de la IA
 
 Este documento registra los prompts utilizados durante el desarrollo de la actividad del taller de la materia Ingeniería de Software.
 
@@ -32,6 +34,3 @@ Notas, ajustes o aprendizajes
 ## Autores
 - Alexandra Martínez Zavala
 - José Carlos Ponce Odohui
-Materia: Ingeniería de Software  
-Meta 1.1: Crear una PWA con asistencia de la IA
-Periodo 2026-1
